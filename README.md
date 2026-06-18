@@ -16,6 +16,12 @@ This is an active research problem in 6G intelligent radio systems,
 Integrated Sensing and Communications (ISAC), and cognitive radio — where 
 radios must sense and adapt to their environment automatically.
 
+This work also connects to physical layer security and rogue-signal 
+detection in wireless and IoT systems — automatic modulation 
+classification is a building block for authenticating transmitters 
+and flagging unauthorized or spoofed signals, an active area in 
+AI-driven wireless security.
+
 ## What it Does
 - Generates synthetic BPSK, QPSK and 16-QAM signals with realistic AWGN noise
 - Trains a fully connected neural network to classify modulation type
